@@ -5,3 +5,15 @@
         -khtml-border-radius: 10px;
         background-color: rgba(0, 0, 0, 0.26);
 }
+.bg_primario {
+        background-color: #4a4a4b;
+}
+.bg_ubicacion {
+        background-color: #4a4a4b13;
+}
+.bg_noviaNovio {
+        background-color: #4a4a4b13;
+}
+.bg_confirmarAsistencia {
+        background-color: #4a4a4b13;
+}
